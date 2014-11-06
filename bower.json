@@ -1,0 +1,18 @@
+{
+  "name": "rouble.less",
+  "version": "0.0.1",
+  "homepage": "http://noframework.com",
+  "authors": [
+    "Roman Zaykin <roman@noframework.com>"
+  ],
+  "description": "Rouble symbol web-font",
+  "keywords": [
+    "rouble",
+    "web-font",
+    "less"
+  ],
+  "license": "Public Domain",
+  "ignore": [
+    "**/.*"
+  ]
+}
